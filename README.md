@@ -33,9 +33,6 @@ const anmol = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>J'aime me connecter avec différentes personnes</b> si vous voulez me dire <b>bonjour, je serai ravi de vous rencontrer davantage !</b> 😊</em>
----
-
 **je suis en avance 🐤** 
 
 ```text
@@ -46,20 +43,4 @@ const anmol = {
 
 ```
 
-
-📊 **Cette semaine, j'ai passé mon temps à** 
-
-```text
-⌚︎ Fuseau horaire: Afrique
-
-💬 Langages: 
-JavaScript               6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
-Python                   2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-Markdown                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
-
-🔥 Editeurs: 
-Vscode                 9 hrs 32 mins       ██████████████░░░░░░░░░░░   55.81% 
-
-💻 Systèmes d'exploitation: 
-Windows                  17 hrs 5 mins       █████████████████████████   100.0%
 
