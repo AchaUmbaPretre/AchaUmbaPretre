@@ -8,7 +8,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
-### <img src="https://avatars.githubusercontent.com/u/107860948?s=400&u=a3a39a43c053e8e0541dc16fdcf0dfbeddb882ea&v=4" width="50">Un peu plus sur moi...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Un peu plus sur moi...  
 
 ```javascript
 const anmol = {
