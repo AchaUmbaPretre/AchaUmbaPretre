@@ -1,5 +1,5 @@
 <h2>Hello🙏🏻, Je m'appelle Acha Umba! <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://avatars.githubusercontent.com/u/107860948?s=400&u=a3a39a43c053e8e0541dc16fdcf0dfbeddb882ea&v=4" width="230">
 <p><em>Developpeur Fullstack<a href="http://www.cleartax.in">Chez LoginSmart</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
