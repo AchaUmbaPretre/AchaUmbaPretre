@@ -33,7 +33,7 @@ const anmol = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>J'aime me connecter avec différentes personnes</b> si vous voulez me dire <b>bonjour, je serai ravi de vous rencontrer davantage !</b> 😊</em>
+<img src="https://avatars.githubusercontent.com/u/107860948?s=400&u=a3a39a43c053e8e0541dc16fdcf0dfbeddb882ea&v=4" width="60"> <em><b>J'aime me connecter avec différentes personnes</b> si vous voulez me dire <b>bonjour, je serai ravi de vous rencontrer davantage !</b> 😊</em>
 ---
 <!--START_SECTION:waka-->
 **je suis en avance 🐤** 
