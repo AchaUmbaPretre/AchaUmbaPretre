@@ -5,7 +5,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
 [![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/acha-ndambi-a50924249/)
-[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:achandambi@gmail.com)
+[![](https://img.shields.io/badge/Gmail-achandambigmail.com-red)](mailto:achandambi@gmail.com)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Un peu plus sur moi...  
 
