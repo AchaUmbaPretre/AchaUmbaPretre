@@ -1,9 +1,9 @@
-<h2>Hello🙏🏻, Je m'appelle Acha Umba! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hello🙏🏻, Je m'appelle Acha Umba! <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Developpeur Fullstack<a href="http://www.cleartax.in">Chez LoginSmart</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)]
 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
@@ -33,9 +33,9 @@ const anmol = {
 };
 ```
 
-<img src="https://avatars.githubusercontent.com/u/107860948?s=400&u=a3a39a43c053e8e0541dc16fdcf0dfbeddb882ea&v=4" width="60"> <em><b>J'aime me connecter avec différentes personnes</b> si vous voulez me dire <b>bonjour, je serai ravi de vous rencontrer davantage !</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>J'aime me connecter avec différentes personnes</b> si vous voulez me dire <b>bonjour, je serai ravi de vous rencontrer davantage !</b> 😊</em>
 ---
-<!--START_SECTION:waka-->
+
 **je suis en avance 🐤** 
 
 ```text
@@ -52,14 +52,14 @@ const anmol = {
 ```text
 ⌚︎ Fuseau horaire: Afrique
 
-💬 Languages: 
+💬 Langages: 
 JavaScript               6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
 Python                   2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
 Markdown                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
 
-🔥 Editors: 
+🔥 Editeurs: 
 Vscode                 9 hrs 32 mins       ██████████████░░░░░░░░░░░   55.81% 
 
-💻 Operating Systems: 
+💻 Systèmes d'exploitation: 
 Windows                  17 hrs 5 mins       █████████████████████████   100.0%
 
