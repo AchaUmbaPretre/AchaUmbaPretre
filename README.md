@@ -1,6 +1,6 @@
 <h2>Hello🙏🏻, Je m'appelle Acha Umba! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Developpeur Fullstack<a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Developpeur Fullstack<a href="http://www.cleartax.in">Chez LoginSmart</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
@@ -9,7 +9,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Un peu plus sur moi...  
 
 ```javascript
 const anmol = {
@@ -34,8 +34,7 @@ const anmol = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> si vous voulez me dire <b>bonjour, je serai ravi de vous rencontrer davantage !</b> 😊</em>
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>J'aime me connecter avec différentes personnes</b> si vous voulez me dire <b>bonjour, je serai ravi de vous rencontrer davantage !</b> 😊</em>
 ---
 <!--START_SECTION:waka-->
 **je suis en avance 🐤** 
@@ -52,7 +51,7 @@ const anmol = {
 📊 **Cette semaine, j'ai passé mon temps à** 
 
 ```text
-⌚︎ Timezone: Asia/Calcutta
+⌚︎ Fuseau horaire: Afrique
 
 💬 Languages: 
 JavaScript               6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
@@ -65,7 +64,3 @@ Vscode                 9 hrs 32 mins       ████████████�
 💻 Operating Systems: 
 Windows                  17 hrs 5 mins       █████████████████████████   100.0%
 
-```
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
