@@ -10,7 +10,7 @@
 
 ```javascript
 const anmol = {
-    pronouns: "Il" | "Lui",
+    pronoms: "Il" | "Lui",
     code: ["Javascript", "Typescript", "Python"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
