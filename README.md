@@ -17,7 +17,7 @@ const anmol = {
         mobileApp: ["Android App"],
         frontEnd: {
             js: ["React", "Next"],
-            css: ["materialize", "Ant design", "bootstrap"]
+            css: ["materialize", "Ant design"]
         },
         backEnd: {
             js: ["node", "express"],
