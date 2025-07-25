@@ -14,7 +14,7 @@ const anmol = {
     code: ["Javascript", "Typescript", "Python"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
-        mobileApp: ["Android App"],
+        mobileApp: ["React native"],
         frontEnd: {
             js: ["React", "Next"],
             css: ["materialize", "Ant design"]
