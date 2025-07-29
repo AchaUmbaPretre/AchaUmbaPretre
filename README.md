@@ -24,7 +24,7 @@ const anmol = {
             python: ["django"]
         },
         devOps: ["Docker🐳", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
+        databases: ["mongo", "MySql", "sqlite", "Firebase"],
         misc: [ "Socket.IO"]
     },
     architecture: ["Architecture sans serveur", "Applications Web progressives", "Single page applications"]
