@@ -1,4 +1,4 @@
-<h2>Bonjour 🙏🏻, je m'appelle <strong>Acha Umba Ndambi</strong> ! 
+<h2>Bonjour 🙏🏻, je m'appelle <strong>Acha Ndambi Umba</strong> ! 
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50" alt="Hello gif">
 </h2>
 
